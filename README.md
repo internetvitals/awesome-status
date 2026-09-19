@@ -43,6 +43,8 @@ Services that monitor and aggregate status pages from multiple providers.
 - **[OhDear](https://ohdear.app)** — Status page monitoring plus uptime, SSL, and broken links. Paid.
 - **[StatusHub](https://statushub.com)** — Creates and monitors status pages. Paid.
 - **[Saashub](https://www.saashub.com/check-website-status)** — Simple multi-site status checker.
+- **[NextReset](https://nextreset.ai/)** — Independent Codex reset-history dashboard combining observed reset records with links to official service incidents. Free.
+
 
 ---
 
