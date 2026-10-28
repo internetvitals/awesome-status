@@ -69,6 +69,7 @@ Status pages for major internet backbone services. Most use [Atlassian Statuspag
 - [Netlify Status](https://www.netlifystatus.com) — Netlify hosting
 - [GitLab Status](https://status.gitlab.com) — GitLab CI/CD
 - [Datadog Status](https://status.datadoghq.com) — Datadog monitoring
+- [iGaming Tools Status](https://statuspage.i-gaming.tools) — iGaming Tools data platform, API and MCP server
 
 ### Payments
 - [Stripe Status](https://status.stripe.com) — Stripe payments API
