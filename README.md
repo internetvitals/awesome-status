@@ -110,6 +110,7 @@ Self-hostable and open source monitoring projects.
 - **[Cachet](https://github.com/cachethq/cachet)** ⭐14k+ — Open source status page system. PHP/Laravel.
 - **[Freshping](https://github.com/freshworks/freshping)** — Website uptime monitoring.
 - **[Upptime](https://github.com/upptime/upptime)** ⭐14k+ — GitHub Actions-powered uptime monitor. Uses GitHub Issues for incidents.
+- **[SiteWatcher](https://github.com/NikKurkov/sitewatcher)** — Self-hosted website monitor with public status pages, response-time history, and TLS and domain expiry checks.
 - **[Statping-ng](https://github.com/statping-ng/statping-ng)** — Status page for monitoring sites and apps. Go-based.
 - **[HetrixTools](https://hetrixtools.com)** — Uptime and blacklist monitoring. Free tier available.
 - **[OpenStatus](https://github.com/openstatushq/openstatus)** ⭐5k+ — Open source status page + API monitoring. Next.js + Cloudflare.
